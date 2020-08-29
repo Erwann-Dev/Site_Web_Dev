@@ -1,4 +1,5 @@
 h2{
+    color: #fff;
     text-align: center
 }
 #go_back {
@@ -282,7 +283,7 @@ a:active {
 }
 
 body {
-    background-image: url('');
+    background-color: #000;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
